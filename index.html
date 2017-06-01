@@ -1,0 +1,29 @@
+<html>
+<head>
+  <script type="text/javascript" src="gps.js"></script>
+  <link rel="stylesheet" href="gps.css">
+</head>
+
+<body>
+<h1>Geocaching</h1>
+<div id="map">
+  <img src="KEELE_Map_Colour.gif" alt="YorkU map" />
+  <div id="target">
+    <img src="target.gif" alt="Geocache location" />
+  </div>
+  <div id="me">
+    <img src="me.gif" alt="User location" />
+  </div>
+</div>
+<p>
+<button id="togglegps" onclick="togglegps()">Start GPS</button>
+Lattitude <span id="latitude"> ???? </span>
+Longitude <span id="longitude"> ???? </span>
+Now <span id="now"> ???? </span>
+</p>
+<p>
+  <div id="debug"> debug </div>
+</p>
+  <button onclick="updateCache()">next geocache</button>
+</body>
+</html>

@@ -1,0 +1,19 @@
+1)Scott Religous Centre
+Latt: 43.7721815
+Long:-79.5043401
+
+2)WSC
+Latt: 43.7724967
+Long:-79.5076432 highest long
+
+3)Berg
+Latt: 43.7718983
+Long:-79.5068937
+
+4)CLH side door
+Latt: 43.7732861
+Long:-79.5057176
+
+5)Observatory
+Latt: 43.773939  --->dont know if the javascript would want you to adda a 0.
+Long:-79.5072558
